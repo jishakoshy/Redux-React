@@ -1,0 +1,44 @@
+
+body {
+    background-color: black;
+  }
+  
+.UserLoginContainer {
+    
+    color: red;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .UserLoginContainer h2 {
+    margin-bottom: 20px;
+    
+  }
+  
+  .UserLoginContainer label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .UserLoginContainer input {
+    width: 28%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid red;
+    border-radius: 5px;
+  }
+  
+  .UserLoginContainer button {
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .UserLoginContainer button:hover {
+    background-color: darkred;
+  }
+  
+

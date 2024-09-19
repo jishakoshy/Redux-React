@@ -1,0 +1,42 @@
+
+body {
+    background-color: black;
+  }
+  
+.AdminlogContainer {
+    
+    color: red;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .AdminlogContainer h2 {
+    margin-bottom: 20px;
+  }
+  
+  .AdminlogContainer label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .AdminlogContainer input {
+    width: 30%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid red;
+    border-radius: 5px;
+  }
+  
+  .AdminlogContainer button {
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .AdminlogContainer button:hover {
+    background-color: darkred;
+  }
+  

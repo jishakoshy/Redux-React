@@ -1,0 +1,42 @@
+
+body {
+    background-color: black;
+  }
+  
+.UserRegContainer {
+    
+    color: red;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .UserRegContainer h2 {
+    margin-bottom: 20px;
+  }
+  
+  .UserRegContainer label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .UserRegContainer input {
+    width: 30%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid red;
+    border-radius: 5px;
+  }
+  
+  .UserRegContainer button {
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .UserRegContainer button:hover {
+    background-color: darkred;
+  }
+  
